@@ -1,0 +1,2 @@
+TaskScheduler ce raditi kao prioritetni raspoređivač ukoliko se za zadatke dodaju prioriteti. U suprotnom radi kao FIFO raspoređivač.
+Potrebno je napisati exceptione ukoliko se task stavi u nedozvoljeno stanje, npr. ako se pokuša pauzirati već izvršen zadatak. 

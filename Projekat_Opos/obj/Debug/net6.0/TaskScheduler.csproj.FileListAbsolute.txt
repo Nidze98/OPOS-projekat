@@ -1,0 +1,12 @@
+C:\Users\bursa\source\repos\NewRepo\Projekat_Opos\Projekat_Opos\bin\Debug\net6.0\TaskScheduler.deps.json
+C:\Users\bursa\source\repos\NewRepo\Projekat_Opos\Projekat_Opos\bin\Debug\net6.0\TaskScheduler.dll
+C:\Users\bursa\source\repos\NewRepo\Projekat_Opos\Projekat_Opos\bin\Debug\net6.0\TaskScheduler.pdb
+C:\Users\bursa\source\repos\NewRepo\Projekat_Opos\Projekat_Opos\obj\Debug\net6.0\TaskScheduler.csproj.AssemblyReference.cache
+C:\Users\bursa\source\repos\NewRepo\Projekat_Opos\Projekat_Opos\obj\Debug\net6.0\TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bursa\source\repos\NewRepo\Projekat_Opos\Projekat_Opos\obj\Debug\net6.0\TaskScheduler.AssemblyInfoInputs.cache
+C:\Users\bursa\source\repos\NewRepo\Projekat_Opos\Projekat_Opos\obj\Debug\net6.0\TaskScheduler.AssemblyInfo.cs
+C:\Users\bursa\source\repos\NewRepo\Projekat_Opos\Projekat_Opos\obj\Debug\net6.0\TaskScheduler.csproj.CoreCompileInputs.cache
+C:\Users\bursa\source\repos\NewRepo\Projekat_Opos\Projekat_Opos\obj\Debug\net6.0\TaskScheduler.dll
+C:\Users\bursa\source\repos\NewRepo\Projekat_Opos\Projekat_Opos\obj\Debug\net6.0\refint\TaskScheduler.dll
+C:\Users\bursa\source\repos\NewRepo\Projekat_Opos\Projekat_Opos\obj\Debug\net6.0\TaskScheduler.pdb
+C:\Users\bursa\source\repos\NewRepo\Projekat_Opos\Projekat_Opos\obj\Debug\net6.0\ref\TaskScheduler.dll
